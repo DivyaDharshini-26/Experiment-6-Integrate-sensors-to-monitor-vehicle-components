@@ -1,5 +1,6 @@
 # Experiment-6-Integrate-sensors-to-monitor-vehicle-components
 
+
 ## AIM
 To develop an embedded IoT-based predictive maintenance system for an electric vehicle by integrating sensors that monitor battery health, motor temperature, and brake wear and analyze the data for maintenance prediction.
  
